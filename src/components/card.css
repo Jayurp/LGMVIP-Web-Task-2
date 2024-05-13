@@ -1,0 +1,16 @@
+.card
+{
+    border: solid 1px;
+    padding: 5%;
+    margin: 1%;
+    width: 20%;
+    background-color: skyblue;
+    border-radius: 3rem;
+}
+
+.img
+{
+    border-radius: 50%;
+    margin-top: -100%;
+    border: solid 1px;
+}
